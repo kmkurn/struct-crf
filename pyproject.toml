@@ -7,7 +7,7 @@ module = "struct_crf"
 author = "Kemal Kurniawan"
 author-email = "kemal@kkurniawan.com"
 home-page = "https://github.com/kmkurn/struct-crf"
-requires = ["torch"]
+requires = ["torch ~=1.0.0"]
 requires-python = ">=3.6.8,<4"
 description-file = "README.rst"
 classifiers = [
